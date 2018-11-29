@@ -35,6 +35,7 @@
 
 ----------------------------
 [web界面安装与维护]
+
 #安装web界面webvirtmgr管理kvm
 ./kvm_webvirtmgr_install.sh
 
@@ -43,6 +44,7 @@
 
 ---------------------------
 [虚拟机管理]
+
 #kvm创建linux虚拟机模板
 #./kvm_vm1.sh
 ~
