@@ -46,10 +46,10 @@
 [虚拟机管理]
 
 #kvm创建linux虚拟机模板(没弄)
-#./kvm_vm1.sh
-~
+./kvm_vm1.sh
+
 #kvm给linux虚拟机添加硬盘
-#./kvm_add_disk.sh
+./kvm_add_disk.sh
 
 #linux虚拟机挂载硬盘
-#./vm_add_disk.sh
+./vm_add_disk.sh
