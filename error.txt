@@ -1,0 +1,3 @@
+创建虚拟机报错 
+不支持的配置：unknown OS type 'None'
+ln -s /usr/libexec/qemu-kvm /usr/bin/qemu-kvm
